@@ -1,0 +1,8 @@
+pandas>=2.2
+numpy
+matplotlib
+scikit-learn
+vaderSentiment
+
+# Optional: for running the notebooks in notebooks/
+jupyter
